@@ -12,6 +12,8 @@ Or install individual skills via skills.sh:
 
 npx skills@latest add kaizen2026/agentic-workflow
 
+run /setup-matt-pocock-skills
+
 ## Core Workflow Loop
 
 1. /wayfinder — Interactive requirements gathering & architectural planning.
